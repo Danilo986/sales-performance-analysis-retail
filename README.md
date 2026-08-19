@@ -58,3 +58,5 @@ O relatório executivo interativo foi desenvolvido no **Looker Studio** e estrut
 4. **Diagnóstico & Plano de Ação:** Apresentação dos achados de negócio e monitoramento de KPIs (Meta de Ticket Médio: R$ 15,00).
 
 5. > 🔗 **Link de Acesso ao Dashboard:** https://datastudio.google.com/reporting/8e9ac27c-0963-469c-abb4-7b28675151ab
+
+Nota sobre a base de dados: Devido ao limite de tamanho de arquivos do GitHub (100 MB), o conjunto de dados tratado está disponível no repositório compactado em formato .zip (supermarket_data_clean.zip).
