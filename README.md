@@ -40,7 +40,7 @@ A etapa de tratamento foi conduzida em **Python** (Google Colab) utilizando as b
 ![Carregamento e tratamento dos dados no Google Colab](figura1-colab.png)
 *Figura 1: Carregamento, visualização das primeiras linhas e inspeção dos tipos de dados do dataset no Google Colab.*
 
-🔗 **Notebook completo (Colab):** https://colab.research.google.com/drive/1Or5xSQD-QlXBs-l-ylLAEugh9A4DXjn_?usp=sharing
+🔗 **Notebook completo (Colab):** https://colab.research.google.com/drive/1Or5xSQD-QlXBs-I-yILAEugh9A4DXjn_?usp=sharing
 
 > **Nota Técnica de Otimização:** a variável de preço unitário individual foi desconsiderada da modelagem final para otimização do uso de memória e performance no ambiente de execução. As métricas financeiras essenciais (como Faturamento Total e Quantidade de Vendas) foram preservadas via variáveis agregadas, mantendo a precisão das análises do dashboard.
 
