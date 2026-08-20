@@ -38,7 +38,7 @@ A etapa de tratamento foi conduzida em **Python** (Google Colab) utilizando as b
 3. **Higienização de Categorias:** Isolamento de taxas operacionais e custos de envio (`DOTCOM POSTAGE`, `POSTAGE`, `Manual`, `PADS`, `POST`) para garantir que os indicadores de produtos reflitam apenas o catálogo físico.
 
 ![Carregamento e tratamento dos dados no Google Colab](imagem1-colab.png)
-*Figura 1: Carregamento, visualização das primeiras linhas e inspeção dos tipos de dados do dataset no Google Colab.*
+*imagem 1: Carregamento, visualização das primeiras linhas e inspeção dos tipos de dados do dataset no Google Colab.*
 
 🔗 **Notebook completo (Colab):** https://colab.research.google.com/drive/1Or5xSQD-QlXBs-I-yILAEugh9A4DXjn_?usp=sharing
 
@@ -65,7 +65,7 @@ O relatório executivo interativo foi desenvolvido no **Looker Studio** e estrut
 4. **Diagnóstico & Plano de Ação:** Apresentação dos achados de negócio e monitoramento de KPIs (Meta de Ticket Médio: R$ 15,00).
 
 ![Visão geral do Dashboard no Looker Studio](imagem2-dashboard.png)
-*Figura 2: Visão geral da Capa e Sumário do Dashboard no Looker Studio.*
+*imagem 2: Visão geral da Capa e Sumário do Dashboard no Looker Studio.*
 
 🔗 **Link de Acesso ao Dashboard:** https://datastudio.google.com/reporting/8e9ac27c-0963-469c-abb4-7b28675151ab
 
